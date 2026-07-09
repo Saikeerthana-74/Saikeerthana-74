@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saikeerthana-74/Saikeerthana-74/main/banner.png" alt="Sai Keerthana Banner" width="100%">
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Learner;DSA+Enthusiast;Building+Real+World+Projects;Open+to+Software+Engineering+Opportunities" />
 </p>
 
