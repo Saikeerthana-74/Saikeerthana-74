@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Saikeerthana-74/Saikeerthana-74/main/banner.png" width="100%" alt="Sai Keerthana Banner"/>
+</p>
 <h1 align="center">Hi 👋, I'm Sai Keerthana</h1>
 
 <h3 align="center">Java Full Stack Developer | B.Tech IT Student | Passionate about Building Scalable Applications</h3>
