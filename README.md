@@ -1,34 +1,44 @@
 <h1 align="center">Hi 👋, I'm Sai Keerthana</h1>
 
-<h3 align="center">
-Java Full Stack Developer | B.Tech IT Student | Passionate Problem Solver
-</h3>
+<h3 align="center">Java Full Stack Developer | B.Tech IT Student | Passionate about Building Scalable Applications</h3>
+
+<p align="center">
+  <a href="mailto:saikeerthananimma06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/sai-keerthana-nimma-0516222a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 🎓 B.Tech Information Technology Student
 
 💻 Aspiring Java Full Stack Developer
 
-🌱 Currently learning Spring Boot, React and Advanced DSA
+🌱 Currently learning Spring Boot, React and Advanced Java
 
-🚀 Building real-world projects using Java
+📚 Solving DSA problems daily
 
-🎯 Goal: Become a Software Engineer
+🚀 Passionate about building real-world software projects
+
+🎯 Goal: Secure a Software Engineer role and become an excellent Full Stack Developer
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+### Programming Languages
 
 - Java
 - SQL
-- HTML
-- CSS
 - JavaScript
+- HTML5
+- CSS3
 
 ### Frameworks
 
@@ -44,52 +54,59 @@ Java Full Stack Developer | B.Tech IT Student | Passionate Problem Solver
 - Git
 - GitHub
 - VS Code
-- IntelliJ IDEA
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏦 Bank Management System
+## 🏦 Bank Management System
 
-Java Swing + MySQL Desktop Application
-
----
-
-### 🎓 ClassSync AI
-
-AI-powered Academic Recovery Platform
+Java Swing + MySQL desktop banking application featuring authentication, transactions and account management.
 
 ---
 
-### 💻 Java Daily Practice
+## 🎓 ClassSync AI
 
-Daily Java coding practice for placements
-
----
-
-### 🛒 E-Commerce Website
-
-PHP + MySQL based Online Shopping System
+AI-powered academic recovery platform helping students manage missed classes and learning schedules.
 
 ---
 
-### 🧠 Personal Memory Search Engine
+## 💻 Java Daily Practice
 
-AI-powered Search Engine for Notes and PDFs
-
----
-
-## 📚 Currently Learning
-
-✔ Spring Boot
-
-✔ React
-
-✔ DSA
-
-✔ SQL Optimization
+Daily Java coding problems focused on interview preparation and problem-solving.
 
 ---
 
-⭐ Thank you for visiting my profile!
+## 🛒 E-Commerce Website
+
+Online shopping application built using PHP, MySQL, HTML, CSS and JavaScript.
+
+---
+
+## 🧠 Personal Memory Search Engine
+
+AI-powered semantic search application for notes, PDFs and personal knowledge.
+
+---
+
+# 📚 Currently Learning
+
+- Spring Boot
+- React
+- DSA
+- System Design
+- REST APIs
+
+---
+
+# 📫 Connect With Me
+
+📧 Email:
+saikeerthananimma06@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/sai-keerthana-nimma-0516222a7/
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
