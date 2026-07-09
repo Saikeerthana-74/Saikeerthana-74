@@ -4,7 +4,7 @@
 
 <br>
 
-# Sai Keerthana Nimma
+# 👋Sai Keerthana Nimma
 
 **Java Full Stack Developer &nbsp;•&nbsp; B.Tech Information Technology**
 
@@ -20,7 +20,7 @@
 
 <br>
 
-## About
+## 👩‍💻About
 
 I'm an Information Technology student focused on the Java + Spring ecosystem, currently rounding out my full-stack skill set with React and REST API design. My interest sits at the intersection of clean backend architecture and practical, deployable software — I'd rather ship a working feature than polish a demo that never leaves localhost.
 
@@ -35,7 +35,7 @@ class SaiKeerthana {
 
 <br>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -54,7 +54,7 @@ class SaiKeerthana {
 
 <br>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -119,17 +119,17 @@ An ongoing log of daily Java problems for placement prep and DSA mastery — int
 
 <br>
 
-## 2026 Roadmap
+## 🎯2026 Roadmap
 
-- [ ] Solve 300+ DSA problems
-- [ ] Master Spring Boot end-to-end (security, JPA, microservices basics)
-- [ ] Ship 10+ real-world projects
-- [ ] Make first open-source contribution
-- [ ] Land a Software Engineering role
+- ✅ Solve 300+ DSA problems
+- ✅ Master Spring Boot end-to-end (security, JPA, microservices basics)
+- ✅ Ship 10+ real-world projects
+- ✅ Make first open-source contribution
+- ✅ Land a Software Engineering role
 
 <br>
 
-## Let's Connect
+## 🤝Let's Connect
 
 <div align="center">
 
